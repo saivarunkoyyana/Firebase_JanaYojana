@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 
-  +public class WelcomeActivity extends AppCompatActivity{
+  public class WelcomeActivity extends AppCompatActivity{
     private static  int SPlASH_TIME_OUT = 4000;
 
 
